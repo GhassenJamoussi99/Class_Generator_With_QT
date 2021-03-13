@@ -3,7 +3,9 @@ To improve my C++ Skills , I created a small program that generate simple classe
 
 ## About :
 Done by:
+
  Ghassen Jamoussi
 
 ## Usage : 
+
 Download the folder and run it in QT 
